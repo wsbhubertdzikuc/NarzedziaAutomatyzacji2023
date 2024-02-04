@@ -1,7 +1,0 @@
-name: GitHubActions
-on: [push]
-jobs:
-  Automatyzacja:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "GitHub Action zadzialal."
